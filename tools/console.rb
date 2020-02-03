@@ -70,7 +70,7 @@ ride5 = Ride.new(90.5, pass2, driver1)
 
 
 
-Pry.start
+binding.pry
 
 
 0
